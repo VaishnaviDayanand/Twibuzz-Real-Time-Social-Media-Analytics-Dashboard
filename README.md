@@ -4,6 +4,7 @@ This project presents a real-time analytics pipeline built to fetch, process, an
 
 
 🚀 Features
+
 ✅ Real-time Tweet Feed – Displays tweets in a feed-like format.
 
 ✅ Sentiment Analysis – Classifies tweets as Positive, Negative, or Neutral using VADER.
@@ -18,6 +19,7 @@ This project presents a real-time analytics pipeline built to fetch, process, an
 
 ✅ Interactive Dashboard – Easy navigation across multiple views (Home, Tweets Window, Dashboard, About).
 
+
 🛠️ Tech Stack
 
 Python
@@ -29,6 +31,7 @@ NLTK (VADER) – Sentiment analysis
 Pandas – Data processing
 
 Matplotlib / Seaborn / WordCloud – Visualizations
+
 
 
 📉 Visualizations Included
@@ -44,6 +47,7 @@ Tweet Activity Timeline (millisecond precision)
 Word Cloud
 
 Real-time Tweet Feed
+
 
 
 📌 Limitations
