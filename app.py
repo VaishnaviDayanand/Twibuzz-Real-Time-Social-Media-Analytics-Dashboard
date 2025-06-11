@@ -12,7 +12,7 @@ def get_base64(image_path):
 
 # Set Background Images (Update paths for each section)
 bg_images = {
-    "Home": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\B.jpg",
+    "Home": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont.png",
     "Tweets Window": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont\3.png",
     "Analysis Dashboard": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont\3.png",
     "About": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont.png",
