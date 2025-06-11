@@ -12,10 +12,10 @@ def get_base64(image_path):
 
 # Set Background Images (Update paths for each section)
 bg_images = {
-    "Home": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont.png",
-    "Tweets Window": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont\3.png",
-    "Analysis Dashboard": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont\3.png",
-    "About": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\Bailey Dupont.png",
+    "Home": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\common.png",
+    "Tweets Window": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\mainpage.png",
+    "Analysis Dashboard": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\mainpage.png",
+    "About": r"C:\Users\Admin\Desktop\Vaishu\RTSMADP\common.png",
 }
 
 # Custom CSS for Background (Dynamic based on the selected tab)
